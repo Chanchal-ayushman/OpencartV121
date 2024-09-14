@@ -1,0 +1,6 @@
+[DEBUG] 2024-09-14 17:58:31,266 TestNG.debug() - suiteXmlPath: "D:\Eclipse Program\OpencartV121\Master.xml"
+[INFO ] 2024-09-14 17:58:34,980 TC001_AccountRegistrationTest.verify_account_registration() - *****Starting TC001_AccountRegistrationTest *****
+[INFO ] 2024-09-14 17:58:56,767 TC001_AccountRegistrationTest.verify_account_registration() - Validate expected Message
+[INFO ] 2024-09-14 17:58:56,814 TC001_AccountRegistrationTest.verify_account_registration() - *****Finish TC001_AccountRegistrationTest *****
+[INFO ] 2024-09-14 17:58:58,861 TC002_Logintest.verify_Login() - *****Starting TC002_Login_Test *****
+[INFO ] 2024-09-14 17:59:20,275 TC002_Logintest.verify_Login() - *****Finish TC002_Login_Test *****
